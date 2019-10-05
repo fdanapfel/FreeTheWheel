@@ -29,14 +29,18 @@
 #define kGPLogitechWheelRestricted					0xc294046d
 #define kGPLogitechG25Native						0xc299046d
 #define kGPLogitechG27Native						0xc29b046d
+#define kGPLogitechG29Native						0xc24f046d
 #define kGPLogitechDFGTNative						0xc29a046d
 #define kGPLogitechDFPNative						0xc298046d
+#define kGPLogitechG920Native						0xc261046d
 
 // Product IDs
 #define kGPLogitechG25ProductID						"G25"
 #define kGPLogitechG27ProductID						"G27"
+#define kGPLogitechG29ProductID                     "G29"
 #define kGPLogitechDFGTProductID					"Driving Force GT"
 #define kGPLogitechDFPProductID						"Driving Force Pro"
+#define kGPLogitechG920ProductID					"G920"
 
 // Device properties
 #define kGPLogitechWheelRangeStandard				240
